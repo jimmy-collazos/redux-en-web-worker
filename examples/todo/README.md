@@ -1,4 +1,4 @@
-# Ejemplo básico en un TODO
+# Ejemplo básico de un TODO
 
 Esta aplicación es la más básica para ver el planteamiento de la comunicación.
 
